@@ -3,9 +3,9 @@
 A collection of GeeksforGeeks questions solved on the platform.
 
 ### Statistics
-- **Total Solved**: 11
-- **Easy**: 2
-- **Medium**: 2
+- **Total Solved**: 13
+- **Easy**: 3
+- **Medium**: 3
 - **Hard**: 0
 
 ## Solved Problems
@@ -17,3 +17,4 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Balloon Everywhere](./Balloon%20Everywhere%20-%20GFG) | Easy | [C++](./Balloon%20Everywhere%20-%20GFG/balloon-everywhere.cpp) |
 | [Palindrome Linked List](./Palindrome%20Linked%20List%20-%20GFG) | Medium | [C++](./Palindrome%20Linked%20List%20-%20GFG/palindrome-linked-list.cpp) |
 | [Smallest sum contiguous subarray](./Smallest%20sum%20contiguous%20subarray%20-%20GFG) | Medium | [C++](./Smallest%20sum%20contiguous%20subarray%20-%20GFG/smallest-sum-contiguous-subarray.cpp) |
+| [Rotate Array](./Rotate%20Array%20-%20GFG) | Medium | [C++](./Rotate%20Array%20-%20GFG/rotate-array.cpp) |
