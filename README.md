@@ -3,8 +3,8 @@
 A collection of GeeksforGeeks questions solved on the platform.
 
 ### Statistics
-- **Total Solved**: 13
-- **Easy**: 3
+- **Total Solved**: 15
+- **Easy**: 5
 - **Medium**: 3
 - **Hard**: 0
 
@@ -18,3 +18,4 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Palindrome Linked List](./Palindrome%20Linked%20List%20-%20GFG) | Medium | [C++](./Palindrome%20Linked%20List%20-%20GFG/palindrome-linked-list.cpp) |
 | [Smallest sum contiguous subarray](./Smallest%20sum%20contiguous%20subarray%20-%20GFG) | Medium | [C++](./Smallest%20sum%20contiguous%20subarray%20-%20GFG/smallest-sum-contiguous-subarray.cpp) |
 | [Rotate Array](./Rotate%20Array%20-%20GFG) | Medium | [C++](./Rotate%20Array%20-%20GFG/rotate-array.cpp) |
+| [Rotate Array Clockwise](./Rotate%20Array%20Clockwise%20-%20GFG) | Easy | [C++](./Rotate%20Array%20Clockwise%20-%20GFG/rotate-array-clockwise.cpp) |
