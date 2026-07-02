@@ -3,9 +3,9 @@
 A collection of GeeksforGeeks questions solved on the platform.
 
 ### Statistics
-- **Total Solved**: 10
+- **Total Solved**: 11
 - **Easy**: 2
-- **Medium**: 1
+- **Medium**: 2
 - **Hard**: 0
 
 ## Solved Problems
@@ -16,3 +16,4 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Smallest subarray with sum greater than x](./Smallest%20subarray%20with%20sum%20greater%20than%20x%20-%20GFG) | Easy | [C++](./Smallest%20subarray%20with%20sum%20greater%20than%20x%20-%20GFG/smallest-subarray-with-sum-greater-than-x.cpp) |
 | [Balloon Everywhere](./Balloon%20Everywhere%20-%20GFG) | Easy | [C++](./Balloon%20Everywhere%20-%20GFG/balloon-everywhere.cpp) |
 | [Palindrome Linked List](./Palindrome%20Linked%20List%20-%20GFG) | Medium | [C++](./Palindrome%20Linked%20List%20-%20GFG/palindrome-linked-list.cpp) |
+| [Smallest sum contiguous subarray](./Smallest%20sum%20contiguous%20subarray%20-%20GFG) | Medium | [C++](./Smallest%20sum%20contiguous%20subarray%20-%20GFG/smallest-sum-contiguous-subarray.cpp) |
