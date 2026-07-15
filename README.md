@@ -26,5 +26,6 @@ A collection of GeeksforGeeks questions solved on the platform.
 ## Misc
 |  |
 | ------- |
+| [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Toggle Case - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Toggle%20Case%20-%20GFG) |
 <!---GeeksforGeeks Topics End-->
