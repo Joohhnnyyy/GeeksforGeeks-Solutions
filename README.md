@@ -26,6 +26,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 ## Misc
 |  |
 | ------- |
+| [Power of 2 - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Power%20of%202%20-%20GFG) |
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Toggle Case - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Toggle%20Case%20-%20GFG) |
 <!---GeeksforGeeks Topics End-->
