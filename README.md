@@ -29,6 +29,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Factorial - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Factorial%20-%20GFG) |
 | [Max Product Pair - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Max%20Product%20Pair%20-%20GFG) |
 | [Min and Max in Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Min%20and%20Max%20in%20Array%20-%20GFG) |
+| [Number of Occurrence - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Number%20of%20Occurrence%20-%20GFG) |
 | [Power of 2 - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Power%20of%202%20-%20GFG) |
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Reverse digits - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20digits%20-%20GFG) |
