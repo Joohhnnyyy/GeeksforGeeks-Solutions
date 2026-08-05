@@ -26,6 +26,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 ## Misc
 |  |
 | ------- |
+| [Factorial - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Factorial%20-%20GFG) |
 | [Max Product Pair - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Max%20Product%20Pair%20-%20GFG) |
 | [Power of 2 - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Power%20of%202%20-%20GFG) |
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
