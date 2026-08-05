@@ -1,0 +1,9 @@
+class Solution {
+  public:
+    int countFreq(vector<int>& arr, int target) {
+        // code here
+        auto low = lower_bound(arr.begin() , arr.end() , target);
+        auto high = upper_bound(arr.begin() , arr.end() , target);
+        return high - low;
+    }
+};
