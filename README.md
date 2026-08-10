@@ -35,5 +35,6 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Reverse an Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20an%20Array%20-%20GFG) |
 | [Reverse digits - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20digits%20-%20GFG) |
+| [Sorted and Rotated Minimum - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Sorted%20and%20Rotated%20Minimum%20-%20GFG) |
 | [Toggle Case - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Toggle%20Case%20-%20GFG) |
 <!---GeeksforGeeks Topics End-->
