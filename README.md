@@ -26,6 +26,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 ## Misc
 |  |
 | ------- |
+| [4 Sum - All Quadruples - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/4%20Sum%20-%20All%20Quadruples%20-%20GFG) |
 | [Factorial - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Factorial%20-%20GFG) |
 | [Max Product Pair - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Max%20Product%20Pair%20-%20GFG) |
 | [Min and Max in Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Min%20and%20Max%20in%20Array%20-%20GFG) |
