@@ -38,6 +38,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Reverse an Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20an%20Array%20-%20GFG) |
 | [Reverse digits - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20digits%20-%20GFG) |
+| [Rotate Array by One - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Rotate%20Array%20by%20One%20-%20GFG) |
 | [Second Largest - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Second%20Largest%20-%20GFG) |
 | [Selection Sort - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Selection%20Sort%20-%20GFG) |
 | [Sorted and Rotated Minimum - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Sorted%20and%20Rotated%20Minimum%20-%20GFG) |
