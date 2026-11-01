@@ -1,0 +1,7 @@
+# Remove Duplicates Sorted Array
+## Easy
+<div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">You are given a sorted array <strong>arr[] </strong>containing positive integers. Your task is to remove all duplicate elements from this array such that each element appears only once. Return an array containing these distinct elements in the same order as they appeared.<br><br></span><strong style="font-size: 18px;">Examples :</strong></p><pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [2, 2, 2, 2, 2]
+<strong>Output:</strong> [2]
+<strong>Explanation:</strong> After removing all the duplicates only one instance of 2 will remain i.e. [2] so modified array will contains 2 at first position and you should return array containing [2] after modifying the array.</span>
+</pre><pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [1, 2, 4]
+<strong>Output:</strong> [1, 2, 4]<br></span><span style="font-size: 18px;"><strong>Explanation</strong></span><span style="font-size: 18px;"><strong>:  </strong>As the array does not contain any duplicates so you should return [1, 2, 4].</span></pre></div>
