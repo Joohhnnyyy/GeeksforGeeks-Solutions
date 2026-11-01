@@ -34,6 +34,7 @@ A collection of GeeksforGeeks questions solved on the platform.
 | [Minimum distance in an Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Minimum%20distance%20in%20an%20Array%20-%20GFG) |
 | [Number of Occurrence - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Number%20of%20Occurrence%20-%20GFG) |
 | [Power of 2 - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Power%20of%202%20-%20GFG) |
+| [Quick Sort - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Quick%20Sort%20-%20GFG) |
 | [Reverse a String - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20a%20String%20-%20GFG) |
 | [Reverse an Array - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20an%20Array%20-%20GFG) |
 | [Reverse digits - GFG](https://github.com/Joohhnnyyy/GeeksforGeeks-Solutions/tree/master/Reverse%20digits%20-%20GFG) |
